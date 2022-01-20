@@ -1,0 +1,8 @@
+{
+
+    "type": "module",
+    "scripts": {
+        "task.js":"node --experimental-json-modules task.js"
+    }
+
+}

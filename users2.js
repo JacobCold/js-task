@@ -38,4 +38,4 @@ const users = {
   ],
 };
 
-module.exports = users;
+export default users; // converted to ES module from module.exports = users;
